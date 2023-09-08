@@ -1,0 +1,6 @@
+SpeechRecognition
+git+https://github.com/openai/whisper.git 
+nltk
+wikipedia
+pyttsx3
+pyjokes

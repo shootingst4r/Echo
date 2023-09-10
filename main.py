@@ -23,7 +23,7 @@ def getSpeech():
 keywords_Recal = ["recal", "restart", "microphone"]
 keywords_Web = ["web", "website", "go to" ".com"]
 keywords_Wiki = ["wiki", "pedia", "summary", "summarize"]
-keywords_Search = ["Search", "What's", "What is"]
+keywords_Search = ["search", "what's", "what is", "google"]
 keywords_Joke = ["joke", "pun"]
 keywords_Exit = ["exit", "close", "stop"]
 

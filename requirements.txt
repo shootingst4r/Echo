@@ -5,3 +5,4 @@ wikipedia
 pyttsx3
 pyjokes
 pyaudio
+soundfile

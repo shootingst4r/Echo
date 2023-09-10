@@ -4,3 +4,4 @@ nltk
 wikipedia
 pyttsx3
 pyjokes
+pyaudio
